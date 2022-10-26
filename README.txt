@@ -9,4 +9,4 @@ Ce dernier a nottamment permis d'aborder les thématiques suivantes :
 - la visualisation
 - les matrices
 
-Les consignes sont directement sur les documents, permettant ainsi aux apprenants d'être guidés tout le long du biref et d'avancer en autonomie.
+Les consignes sont directement sur les documents, permettant ainsi aux apprenants d'être guidés tout le long du brief et d'avancer en autonomie.
